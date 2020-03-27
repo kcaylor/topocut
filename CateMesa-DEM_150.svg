@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="576pt" version="1.1" viewBox="0 0 864 576" width="864pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 576 
+L 864 576 
+L 864 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="LineCollection_1">
+    <path clip-path="url(#p9a42e4fce0)" d="M 705.99 70.335 
+L 695.9925 84.285 
+L 707.85 92.19 
+L 715.104 98.235 
+L 721.8 100.626429 
+L 735.75 108.321923 
+L 749.7 111.587143 
+L 753.885 112.185 
+L 763.65 113.115 
+L 777.6 117.436765 
+" style="fill:none;stroke:#440154;stroke-width:1.5;"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9a42e4fce0">
+   <rect height="432.45" width="669.6" x="108" y="70.335"/>
+  </clipPath>
+ </defs>
+</svg>
